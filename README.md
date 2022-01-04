@@ -16,7 +16,7 @@ Also, before building, edit the [src/main/resources/application.properties](http
 |TELEGRAM_BOT_NAME| Whatever you set in BotFather after creating your bot. |
 |TELEGRAM_CREATOR_ID| Your Telegram id (not handle). You can get it from [userinfobot](https://t.me/userinfobot). |
 |LAST_FM_API_KEY| Your Last FM API key. Get it after creating an API account [here](https://www.last.fm/api/account/create). |
-|LAST_FM_API_SECRET| Same as the API key above. |
+|LAST_FM_API_SECRET| Get it from the same link as for API key above. |
 
 Bot commands
 ------------
